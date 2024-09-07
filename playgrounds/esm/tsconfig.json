@@ -4,6 +4,7 @@
     "moduleResolution": "Node10",
     "target": "ES2022",
     "noEmit": true,
+    "declaration": true,
     "strict": true
   },
   "files": ["index.ts"]
