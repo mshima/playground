@@ -5,6 +5,9 @@
     "target": "ES2022",
     "noEmit": true,
     "declaration": true,
+    /* Interop Constraints */
+    "allowSyntheticDefaultImports": true /* Allow 'import x from y' when a module doesn't have a default export. */,
+    "esModuleInterop": true,
     "strict": true
   },
   "files": ["index.ts"]
