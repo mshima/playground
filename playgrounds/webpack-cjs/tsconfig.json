@@ -4,7 +4,7 @@
     "module": "ESNext",
     "strict": true,
     "jsx": "preserve",
-    "moduleResolution": "Node10",
+    "moduleResolution": "Bundler",
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
