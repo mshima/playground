@@ -1,5 +1,5 @@
 import { faker, Faker } from "@faker-js/faker";
-import { faker as fakerDe } from "@faker-js/faker/dist/locale/de";
+import { faker as fakerDe } from "@faker-js/faker/locale/de";
 
 // Testing https://github.com/faker-js/faker/pull/642
 // import es from "@faker-js/faker/locales/es";
